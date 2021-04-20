@@ -17,15 +17,15 @@ Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-I have a [YouTube channel]
+I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
 
-A Linkedin ]Profile]
+A [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
 
-A Twitter [profile]
+A [Twitter] profile (https://twitter.com/monstervcdbr)
 
 Contact [email]
 
- - I love to program and learn U+2665
+ - I love to program and learn #issue
 
 Currently focusing on Front-End development for a future Full-Stack developer.
 
