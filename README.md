@@ -21,9 +21,9 @@ I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_C
 
 A [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
 
-A [Twitter] profile (https://twitter.com/monstervcdbr)
+A [Twitter] Profile (https://twitter.com/monstervcdbr)
 
-Contact [email]
+Contact [email] (ti.volei@hotmail.com)
 
  - I love to program and learn ❤
 
