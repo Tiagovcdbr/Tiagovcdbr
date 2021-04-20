@@ -17,6 +17,16 @@ Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
+I have a [YouTube channel]
+
+A Linkedin ]Profile]
+
+A Twitter [profile]
+
+Contact [email]
+
+ - I love to program and learn U+2665
+
 Currently focusing on Front-End development for a future Full-Stack developer.
 
 Thanks for the opportunity.
