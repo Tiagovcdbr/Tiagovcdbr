@@ -20,9 +20,9 @@ Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, 
 
  - I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
 
- - A [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
+ - [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
 
- - A [Twitter] Profile (https://twitter.com/monstervcdbr)
+ - [Twitter] Profile (https://twitter.com/monstervcdbr)
 
  - Contact [email] (ti.volei@hotmail.com)
 
