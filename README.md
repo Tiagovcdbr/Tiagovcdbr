@@ -6,13 +6,13 @@
 
 ===========================================
 
-## Welcome!
+# Welcome!
 
 I am studying Higher in Analysis and systems development,
 I have a great interest in the programming area, which today is my professional goal.
 Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, Pyton and Php).
 
-## About me!!
+# About me!!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
