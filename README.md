@@ -25,7 +25,7 @@ A [Twitter] profile (https://twitter.com/monstervcdbr)
 
 Contact [email]
 
- - I love to program and learn #issue
+ - I love to program and learn ❤
 
 Currently focusing on Front-End development for a future Full-Stack developer.
 
