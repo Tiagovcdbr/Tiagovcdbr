@@ -18,13 +18,13 @@ Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
-I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
+ - I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
 
-A [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
+ - A [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
 
-A [Twitter] Profile (https://twitter.com/monstervcdbr)
+ - A [Twitter] Profile (https://twitter.com/monstervcdbr)
 
-Contact [email] (ti.volei@hotmail.com)
+ - Contact [email] (ti.volei@hotmail.com)
 
  - I love to program and learn ❤
 
