@@ -1,36 +1,36 @@
-# Hi there 👋
+# Olá !! 👋
 
 
-## Hello World, I'm Tiago!
+## Olá Mundo, Eu sou o Tiago!
 
 
 ===========================================
 
-### Welcome!
+### Bem vindos ao meu repositório!
 
-I am studying Higher in Analysis and systems development,
-I have a great interest in the programming area, which today is my professional goal.
-Learning structures like (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, Pyton and Php).
+Sou estudante de Análise e desenvolvimento de Sistemas
+Tenho grande interesse pela área de programação, que hoje é meu objetivo profissional.
+Aprendendo linguagens e frameworks como (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, React, Pyton and Php).
 
-### About me!!
+### Sobre mim !!
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 
- - I have a [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
+ - Eu tenho [YouTube channel](https://www.youtube.com/channel/UCLUPDfHpyagH92zdCo_CLnw)
 
  - [Linkedin] Profile(https://www.linkedin.com/in/tiago-silva-68791690/)
 
  - [Twitter] Profile (https://twitter.com/monstervcdbr)
 
- - Contact [email] (ti.volei@hotmail.com)
+ - Contato [email] (ti.volei@hotmail.com)
 
- - I love to program and learn ❤
+ - Eu amo programar e adoro aprender novas tecnologias ❤
 
-Currently focusing on Front-End development for a future Full-Stack developer.
+Atualmente com foco no desenvolvimento de Front-End para um futuro desenvolvedor Full-Stack.
 
-Thanks for the opportunity.
+Obrigado pela oportunidade !!.
 
 [![Tiagovcdbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagovcdbr)](https://github.com/Tiagovcdbr/github-readme-stats)
 
