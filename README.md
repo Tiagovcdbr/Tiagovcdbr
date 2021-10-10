@@ -53,10 +53,7 @@ Obrigado pela oportunidade !!.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="max-width: 100%;" width="40" height="30" align="middle">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" title="ReactJS" style="max-width: 100%;" width="40" height="30" align="middle"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" style="max-width: 100%;" width="40" height="30" align="middle">
 
-<div>
-  <a href="https://github.com/tiagovcdbr">
-  
-</div>
+
 <div  align="center"> 
   <div style="display: inline_block"></div>
   
