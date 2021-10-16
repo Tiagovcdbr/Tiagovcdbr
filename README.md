@@ -1,18 +1,18 @@
 # Olá !! 👋
 
 
-## Olá Mundo, Eu sou o Tiago!
+## <Olá Mundo, Eu sou o Tiago!/>
 
 
 ===========================================
 
-### Bem vindos ao meu repositório!
+### <Bem vindos ao meu repositório!
 
 Sou estudante de Análise e desenvolvimento de Sistemas
 Tenho grande interesse pela área de programação, que hoje é meu objetivo profissional.
 Aprendendo linguagens e frameworks como (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, React, Pyton and Php).
 
-### Sobre mim !!
+### Sobre mim !!/>
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
