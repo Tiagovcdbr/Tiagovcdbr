@@ -10,7 +10,7 @@
 
 Sou estudante de Análise e desenvolvimento de Sistemas
 Tenho grande interesse pela área de programação, que hoje é meu objetivo profissional.
-Aprendendo linguagens e frameworks como (Html 5, Css, Java Script, Bootstrap, NodeJs, Angular, React, Pyton and Php).
+Aprendendo linguagens e frameworks como (Html 5, Css, JavaScript, Bootstrap, NodeJs, Angular, Java, React, Pyton and Php).
 
 ### Sobre mim !!/>
 
