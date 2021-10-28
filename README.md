@@ -16,8 +16,6 @@
 
 ```
 
-===========================================
-
 ### <Bem vindos ao meu repositório!
 
 Sou estudante de Análise e desenvolvimento de Sistemas
