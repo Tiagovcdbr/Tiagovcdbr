@@ -39,7 +39,7 @@ Aprendendo linguagens e frameworks como (Html 5, Css, JavaScript, Bootstrap, Nod
 
  - Contato [email] (ti.volei@hotmail.com)
 
- - Eu amo programar e adoro aprender novas tecnologias ❤
+ - Eu amo programar e aprender novas tecnologias ❤
 
 Atualmente com foco no desenvolvimento de Front-End para um futuro desenvolvedor Full-Stack.
 
