@@ -1,7 +1,8 @@
-# Olá !! 👋
+<h1 align="left">Olá Mundo, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Tiago!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
 
 
-## <Olá Mundo, Eu sou o Tiago!/>
+## <Se liga na information !/>
 
 ```
  async user.index({
@@ -9,7 +10,7 @@
     📆 age: Date.now() - '12/01/1987', 
     🌄 city: 'Santo André, SP',
     💻 stack: ['Html5','CSS3','Javascript','Typescript','Java', 'React','MySql','WordExpress'],
-    🎮 hobby: ['Jogar Ps4','series','Codar']
+    🎮 hobby: ['Jogar Ps4','series','Codar', 'Jogador de Dota2']
   });
 
   return response.status(200).send();
