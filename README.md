@@ -10,7 +10,7 @@
     📆 age: Date.now() - '12/01/1987', 
     🌄 city: 'Santo André, SP',
     💻 stack: ['Html5','CSS3','Javascript','Typescript','Java', 'React','MySql','WordExpress'],
-    🎮 hobby: ['Jogar Ps4','series','Codar', 'Jogador de Dota2']
+    🎮 hobby: ['Jogar Ps4','series','Codar','Jogador de Dota2']
   });
 
   return response.status(200).send();
