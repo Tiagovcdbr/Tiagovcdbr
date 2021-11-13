@@ -45,9 +45,13 @@ Atualmente com foco no desenvolvimento de Front-End para um futuro desenvolvedor
 
 Obrigado pela oportunidade !!.
 
-[![Tiagovcdbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagovcdbr)](https://github.com/Tiagovcdbr/github-readme-stats)
+## ⚙️ &nbsp;GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagovcdbr&layout=compact)
+<div>
+ <a href="https://github.com/tiagovcdbr">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagovcdbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovcdbr&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 ## 🚀 O que eu utilizo !! 🚀 🛠 &nbsp;Stacks
