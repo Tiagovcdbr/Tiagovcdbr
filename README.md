@@ -13,7 +13,7 @@
     🎮 hobby: ['Jogar Ps4','series','Codar','Jogar Dota2','Comer Pizza']
   });
 
-  return response.status(200).send();
+  return buscando.estagio(200).send();
 
 ```
 
