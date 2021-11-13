@@ -9,7 +9,7 @@
     👨‍🦰 name: 'Tiago Silva,
     📆 age: Date.now() - '12/01/1987', 
     🌄 city: 'Santo André, SP',
-    💻 stack: ['Html5','CSS3','Javascript','Typescript','Java', 'React','MySql','Wordpress'],
+    💻 stack: ['Html5','CSS3','Javascript','Typescript','Java','React','MySql','Wordpress','Power BI'],
     🎮 hobby: ['Jogar Ps4','series','Codar','Jogador de Dota2','Comer Pizza']
   });
 
