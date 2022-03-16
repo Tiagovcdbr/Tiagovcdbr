@@ -22,8 +22,9 @@
 ### <Bem vindos ao meu repositório!
 
 Sou estudante de Análise e desenvolvimento de Sistemas
-Tenho grande interesse pela área de programação, que hoje é meu objetivo profissional.
+Tenho grande interesse pela área de programação ou dados, que hoje é meu objetivo profissional.
 Aprendendo linguagens e frameworks como (Html 5, Css, JavaScript, Bootstrap, NodeJs, Angular, Java, React, Pyton and Php).
+Dentre outras ferramentas também como Excel, e Power BI.
 
 ### Sobre mim />
 
