@@ -1,4 +1,4 @@
-<h1 align="left">Olá Mundo, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> Eu sou o Tiago!</h1>
+<h1 align="left">Olá Mundo, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> Eu sou o Tiago!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocout&color=blueviolet" alt="Profile views" /> </p>
 
 
