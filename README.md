@@ -25,10 +25,6 @@ Dentre outras ferramentas também como Excel, e Power BI.
 
 ### Sobre mim />
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-
  - Eu amo programar e aprender novas tecnologias ❤
 
 Atualmente com foco no desenvolvimento de Front-End para um futuro desenvolvedor Full-Stack.
